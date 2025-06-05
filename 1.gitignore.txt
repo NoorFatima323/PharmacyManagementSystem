@@ -1,0 +1,19 @@
+# Ignore build folders
+bin/
+obj/
+
+# Ignore executable files
+*.exe
+
+# Ignore database backups (optional)
+*.ldb
+
+# Ignore user-specific settings
+*.user
+*.suo
+
+# Ignore VS Code settings (if any)
+.vscode/
+
+# Ignore debug logs (optional)
+*.log
